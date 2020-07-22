@@ -1,4 +1,4 @@
-baseurl = "http://dreamlin-test.netlify.com/vex-hugo/"
+baseurl = "https://dreamline-test.netlify.app"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
